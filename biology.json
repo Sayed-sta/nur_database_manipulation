@@ -1,0 +1,303 @@
+{
+    "question_text": {
+        "blocks": [
+            {
+                "data": {},
+                "depth": 0,
+                "entityRanges": [],
+                "inlineStyleRanges": [
+                    {
+                        "length": 55,
+                        "offset": 0,
+                        "style": "fontfamily-kalpurush"
+                    },
+                    {
+                        "length": 55,
+                        "offset": 0,
+                        "style": "fontsize-18"
+                    }
+                ],
+                "key": "fm2tl",
+                "text": "হোমোলোগাস ক্রোমোজোমের জোড় বাঁধার প্রক্রিয়াকে কী বলে? ",
+                "type": "unstyled"
+            }
+        ],
+        "entityMap": {}
+    },
+    "answer_text": {
+        "blocks": [
+            {
+                "data": {
+                    "text-align": "justify"
+                },
+                "depth": 0,
+                "entityRanges": [],
+                "inlineStyleRanges": [
+                    {
+                        "length": 60,
+                        "offset": 0,
+                        "style": "fontfamily-kalpurush"
+                    },
+                    {
+                        "length": 60,
+                        "offset": 0,
+                        "style": "fontsize-18"
+                    }
+                ],
+                "key": "elrjq",
+                "text": "হোমোলোগাস ক্রোমোজোমের জোড় বাঁধার প্রক্রিয়াকে সিন্যাপসিস বলে।",
+                "type": "unstyled"
+            },
+            {
+                "data": {
+                    "text-align": "justify"
+                },
+                "depth": 0,
+                "entityRanges": [],
+                "inlineStyleRanges": [
+                    {
+                        "length": 8,
+                        "offset": 0,
+                        "style": "BOLD"
+                    },
+                    {
+                        "length": 8,
+                        "offset": 0,
+                        "style": "UNDERLINE"
+                    },
+                    {
+                        "length": 768,
+                        "offset": 0,
+                        "style": "fontfamily-kalpurush"
+                    },
+                    {
+                        "length": 768,
+                        "offset": 0,
+                        "style": "fontsize-18"
+                    }
+                ],
+                "key": "3n46g",
+                "text": "জাইগোটিন: ($ \\text {Zygotene:}$ গ্রিক $ \\text {zygos = yoke}$-জোয়াল, জোড়া; $ \\text {tene = thread}$-সুতা) এ উপ-পর্যায়ে হোমোলোগাস ক্রোমোসোম (একটি \"মাতা' হতে আগত এবং অন্যটি 'পিতা' হতে আগত) একটি জোড়ার সৃষ্টি করে। হোমোলোগাস ক্রোমোসোমদ্বয়ের মধ্যে পরস্পর আকর্ষণই এ জোড়া সৃষ্টির কারণ। জোড়া সৃষ্টি কার্য ক্রোমোসোমদ্বয়ের একপ্রান্ত হতে আরম্ভ হয়ে অন্যপ্রান্তে গিয়ে শেষ হতে পারে, অথবা সেন্ট্রোমিয়ারদ্বয়ের মধ্যে আরম্ভ হয়ে দু'দিকে ক্রমান্বয়ে বিস্তার লাভ করতে পারে, অথবা স্থানে স্থানে আরম্ভ হতে পারে। দুটি হোমোলোগাস ক্রোমোসোমের মধ্যে জোড় সৃষ্টি হওয়াকে সিন্যাপসিস $ \\text {(synapsis)}$ বলে। প্রতিটি জোড়বাঁধা ক্রোমোসোম জোড়াকে বাইভেলেন্ট $\\text {(bivalent)}$ বলে। কোষে যতগুলো ক্রোমোসোম থাকবে তার অর্ধেক সংখ্যক বাইভেলেন্ট সৃষ্টি হবে। নিউক্লিয়োলাস এবং -নিউক্লিয়ার এনভেলপ তখনো দেখা যায়। ",
+                "type": "unstyled"
+            },
+            {
+                "data": {
+                    "text-align": "justify"
+                },
+                "depth": 0,
+                "entityRanges": [
+                    {
+                        "key": 0,
+                        "length": 1,
+                        "offset": 0
+                    }
+                ],
+                "inlineStyleRanges": [
+                    {
+                        "length": 1,
+                        "offset": 0,
+                        "style": "fontfamily-kalpurush"
+                    },
+                    {
+                        "length": 1,
+                        "offset": 0,
+                        "style": "fontsize-18"
+                    }
+                ],
+                "key": "7vva5",
+                "text": " ",
+                "type": "atomic"
+            },
+            {
+                "data": {
+                    "text-align": "justify"
+                },
+                "depth": 0,
+                "entityRanges": [],
+                "inlineStyleRanges": [],
+                "key": "cuvnl",
+                "text": "",
+                "type": "unstyled"
+            }
+        ],
+        "entityMap": {
+            "0": {
+                "data": {
+                    "alignment": "left",
+                    "height": "auto",
+                    "src": "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FBiology1stPI35.png?alt=media&token=8cd87a3f-2f29-4861-87c2-58a7b9d613c8",
+                    "width": "auto"
+                },
+                "mutability": "MUTABLE",
+                "type": "IMAGE"
+            }
+        }
+    },
+    "explanation_text": {
+        "blocks": [
+            {
+                "data": {},
+                "depth": 0,
+                "entityRanges": [],
+                "inlineStyleRanges": [],
+                "key": "b7sut",
+                "text": "",
+                "type": "unstyled"
+            }
+        ],
+        "entityMap": {}
+    },
+    "option": [
+        {
+            "blocks": [
+                {
+                    "key": "3cvj6",
+                    "data": {},
+                    "text": "বাইভ্যালেন্ট ",
+                    "type": "unstyled",
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "style": "color-rgb(0,0,0)",
+                            "length": 12,
+                            "offset": 0
+                        },
+                        {
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "length": 12,
+                            "offset": 0
+                        },
+                        {
+                            "style": "fontsize-18",
+                            "length": 13,
+                            "offset": 0
+                        },
+                        {
+                            "style": "fontfamily-kalpurush",
+                            "length": 13,
+                            "offset": 0
+                        }
+                    ]
+                }
+            ],
+            "entityMap": {}
+        },
+        {
+            "blocks": [
+                {
+                    "key": "c3cnc",
+                    "data": {},
+                    "text": "টেট্রাড",
+                    "type": "unstyled",
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "style": "fontsize-18",
+                            "length": 7,
+                            "offset": 0
+                        },
+                        {
+                            "style": "fontfamily-kalpurush",
+                            "length": 7,
+                            "offset": 0
+                        }
+                    ]
+                }
+            ],
+            "entityMap": {}
+        },
+        {
+            "blocks": [
+                {
+                    "key": "9c59k",
+                    "data": {},
+                    "text": "সিন্যাপসিস ",
+                    "type": "unstyled",
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "style": "color-rgb(0,0,0)",
+                            "length": 10,
+                            "offset": 0
+                        },
+                        {
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "length": 10,
+                            "offset": 0
+                        },
+                        {
+                            "style": "fontfamily-kalpurush",
+                            "length": 11,
+                            "offset": 0
+                        },
+                        {
+                            "style": "fontsize-18",
+                            "length": 11,
+                            "offset": 0
+                        }
+                    ]
+                }
+            ],
+            "entityMap": {}
+        },
+        {
+            "blocks": [
+                {
+                    "key": "be6er",
+                    "data": {},
+                    "text": "কায়াজমা",
+                    "type": "unstyled",
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "style": "fontfamily-kalpurush",
+                            "length": 7,
+                            "offset": 0
+                        },
+                        {
+                            "style": "fontsize-18",
+                            "length": 7,
+                            "offset": 0
+                        }
+                    ]
+                }
+            ],
+            "entityMap": {}
+        }
+    ],
+    "id": "41263795-a2ff-4356-b760-dae2c18bb437",
+    "topic": {
+        "name": "৪. মায়োসিস"
+    },
+    "question_type": {
+        "name": "বহুনির্বাচনি প্রশ্ন",
+        "mark": 1,
+        "price": "0.5000"
+    },
+    "question_level": {
+        "name": "MCQ: All Levels"
+    },
+    "mcq_solution_index": 2,
+    "question_subsources": [
+        {
+            "sub_source": {
+                "name": "DB",
+                "description": "Dhaka Board",
+                "source": {
+                    "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                    "name": "Board Exam Question"
+                }
+            },
+            "year": {
+                "name": "2023"
+            }
+        }
+    ],
+    "user_reaction": "none",
+    "question_priority": null,
+    "question_Rating": null
+}

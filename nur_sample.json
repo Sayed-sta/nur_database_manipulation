@@ -1,0 +1,121 @@
+{
+    "_id": {
+        "$oid": "68a96a2ee52d930f16db8df3"
+    },
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "board": "",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "passage": {
+        "text": [],
+        "images": []
+    },
+    "question": [
+        "মায়োসিস বিভাজনের ফলে উৎপন্ন কোষগুলোর বৈশিষ্ট্য কী?"
+    ],
+    "choices": [
+        {
+            "label": "i",
+            "text": "",
+            "image": ""
+        },
+        {
+            "label": "ii",
+            "text": "",
+            "image": ""
+        },
+        {
+            "label": "iii",
+            "text": "",
+            "image": ""
+        }
+    ],
+    "options": [
+        {
+            "label": "a",
+            "text": "একই জিনগত গঠন",
+            "image": ""
+        },
+        {
+            "label": "b",
+            "text": "দ্বিগুণ ক্রোমোজোম সংখ্যা",
+            "image": ""
+        },
+        {
+            "label": "c",
+            "text": "আধা সংখ্যিক ক্রোমোজোম",
+            "image": ""
+        },
+        {
+            "label": "d",
+            "text": "একই আকারের নিউক্লিয়াস",
+            "image": ""
+        }
+    ],
+    "correctOptionIndices": [
+        {
+            "$numberInt": "2"
+        }
+    ],
+    "structuredAnswer": [],
+    "solution": [
+        {
+            "text": "মায়োসিস বিভাজনের ফলে হ্যাপলয়েড (n) কোষ উৎপন্ন হয় যার ক্রোমোজোম সংখ্যা স্বাভাবিক কোষের অর্ধেক।",
+            "image": ""
+        }
+    ],
+    "explanation": "মায়োসিস বিভাজন হচ্ছে গ্যামেট বা জনন কোষ তৈরির জন্য একটি বিশেষ ধরনের বিভাজন, যেখানে কোষের ক্রোমোজোম সংখ্যা অর্ধেক হয়।",
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+        "Biology",
+        "Medical",
+        "Admission"
+    ],
+    "imageUrlsRaw": "",
+    "attachments": [],
+    "source": "",
+    "subSource": [
+        {
+            "text": ""
+        },
+        {
+            "year": ""
+        }
+    ],
+    "years": [
+        "2023"
+    ],
+    "reactions": {
+        "like": {
+            "$numberInt": "0"
+        },
+        "love": {
+            "$numberInt": "0"
+        },
+        "hot": {
+            "$numberInt": "0"
+        },
+        "useful": {
+            "$numberInt": "0"
+        },
+        "confused": {
+            "$numberInt": "0"
+        }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+        "$numberInt": "1"
+    }
+}

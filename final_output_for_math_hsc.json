@@ -1,0 +1,2461 @@
+[
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "CB",
+    "question": [
+      "স্রোতের বেগ 2m/s এবং নৌকার বেগ 8m/s। নৌকাটি স্রোতের বিপরীত দিকে চালালে স্রোতের সাপেক্ষে নৌকার আপেক্ষিক বেগ কত?"
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "4 m/s",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "6 m/s",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "10 m/s",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "16 m/s",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "",
+        "image": []
+      }
+    ],
+    "correctOptionIndices": [
+      2
+    ],
+    "source": "CB",
+    "year": "2023",
+    "choices": [],
+    "passage": {
+      "text": [],
+      "images": []
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "MSB",
+    "question": [
+      "একটি নৌকা 12 মি./সে. বেগে সোজাসুজি একটি নদী পাড়ি দিতে পারে। যদি স্রোতের বেগ 5 মি/সে. হয়, তবে নৌকার বেগ কত? "
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "7 মি/সে. ",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "$\\sqrt{119}$ মি/সে. ",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "13 মি/সে. ",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "17 মি/সে. ",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "",
+        "image": [
+          "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHsc%20H%20%2Cmath%202nd%2029%2C%20mCQ23-%2001.png?alt=media&token=9b84210d-4d7b-4581-b930-35979e4fc727"
+        ]
+      }
+    ],
+    "correctOptionIndices": [
+      2
+    ],
+    "source": "MSB",
+    "year": "2023",
+    "choices": [],
+    "passage": {
+      "text": [],
+      "images": []
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "ChB",
+    "question": [
+      "একজন সাঁতারু স্রোতের বেগের দ্বিগুণ বেগে সাঁতার দিয়ে একটি নদীর যাত্রা বিন্দুর বিপরীত বিন্দুতে পৌঁছল। স্রোতের সাথে তার দিক কত ছিল?"
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "120°",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "90°",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "45°",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "30°",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "নদী লম্বালম্বি পার হতে হলে, স্রোতের বেগের সাথে $\\alpha=\\cos ^{-1}\\left(-\\frac{\\mathrm{u}}{\\mathrm{v}}\\right)$",
+        "image": []
+      }
+    ],
+    "correctOptionIndices": [
+      0
+    ],
+    "source": "ChB",
+    "year": "2023",
+    "choices": [],
+    "passage": {
+      "text": [],
+      "images": []
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "JB",
+    "question": [
+      ""
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "পশ্চিম দিকে $5 \\mathrm{~ms}^{-1}$",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "পশ্চিম দিকে $25 \\mathrm{~ms}^{-1}$",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "পূর্ব দিকে $5 \\mathrm{~ms}^{-1}$",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "পূর্ব দিকে $25 \\mathrm{~ms}^{-1}$",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "",
+        "image": [
+          "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHsc%20H%20%2Cmath%202nd%2029%2C%20mCQ23-%2003.png?alt=media&token=533be352-285e-49c5-acc5-0ed6e6535be0"
+        ]
+      }
+    ],
+    "correctOptionIndices": [
+      3
+    ],
+    "source": "JB",
+    "year": "2023",
+    "choices": [],
+    "passage": {
+      "text": [
+        " ",
+        "u এর সাপেক্ষে v এর আপেক্ষিক বেগ—"
+      ],
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHsc%20H%20%2Cmath%202nd%2029%2C%20mCQ23-%2002.png?alt=media&token=3ba6e44e-fed9-4bbd-b4e7-d716ef71eeda"
+      ]
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "DiB",
+    "question": [
+      "সরলরেখায় গতিশীল একটি কণা $2 \\mathrm{~m} / \\mathrm{sec}^{2}$ সমত্বরণে 30 সেকেন্ড যাবৎ চলে গড়বেগ 60 m/sec হলে তার আদিবেগ— "
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "120 m/sec",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "90 m/sec",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "45 m/sec",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "30 m/sec",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "গড়বেগ, $\\frac{u+v}{2}=60$ ",
+        "image": []
+      }
+    ],
+    "correctOptionIndices": [
+      3
+    ],
+    "source": "DiB",
+    "year": "2023",
+    "choices": [],
+    "passage": {
+      "text": [],
+      "images": []
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "DB",
+    "question": [
+      "সরল পথে স্থিরাবস্থা হতে সমত্বরণে চলমান একটি বস্তুকণা ৫ম সেকেন্ডে 18m পথ অতিক্রম করে। 10 সেকেন্ডে এর অতিক্রান্ত দূরত্ব—"
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "100 m",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "150 m",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "200 m",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "250 m",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "আমরা জানি, t তম সেকেন্ডে অতিক্রান্ত দূরত্ব $=u+\\frac{1}{2} a(2 t-1)$",
+        "image": []
+      }
+    ],
+    "correctOptionIndices": [
+      2
+    ],
+    "source": "DB",
+    "year": "2023",
+    "choices": [],
+    "passage": {
+      "text": [],
+      "images": []
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "DiB",
+    "question": [
+      "একটি বুলেট কোনো দেয়ালের ভিতর 3 ইঞ্চি ভেদ করতে এর রেগের $\\frac{1}{3}$ অংশ হারায়। বুলেটটি দেয়ালের ভিতর আর কতদূর ঢুকবে?"
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\frac{3}{8}$ -ইঞ্চি",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "$\\frac{3}{4}$ -ইঞ্চি",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "$\\frac{6}{5}$ -ইঞ্চি",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "$\\frac{12}{5}$ -ইঞ্চি",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "বুলেটটি x ইঞ্চি ঢুকার পর $\\frac{1}{n}$ গুণ বেগ হারালে থেমে যাওয়ার পূর্বে আরো অতিক্রম করবে",
+        "image": []
+      }
+    ],
+    "correctOptionIndices": [
+      3
+    ],
+    "source": "DiB",
+    "year": "2023",
+    "choices": [],
+    "passage": {
+      "text": [],
+      "images": []
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "DB",
+    "question": [
+      "একটি স্তম্ভের শীর্ষ হতে $\\mathrm{u} \\mathrm{\\ ms}^{-1}$ বেগে খাড়া উপরে নিক্ষিপ্ত পাথর 10 সেকেন্ডে মাটিতে $58 \\mathrm{~ms}^{-1}$ বেগে পড়ে।"
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "$156 \\mathrm{~ms}^{-1}$",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "$48.2 \\mathrm{~ms}^{-1}$",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "$40 \\mathrm{~ms}^{-1}$",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "$30 \\mathrm{~ms}^{-1}$",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "$\\mathrm{v}=-\\mathrm{u}+\\mathrm{gt}$",
+        "image": []
+      }
+    ],
+    "correctOptionIndices": [
+      2
+    ],
+    "source": "DB",
+    "year": "2023",
+    "choices": [],
+    "passage": {
+      "text": [
+        "u এর মান হলো— "
+      ],
+      "images": []
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "JB",
+    "question": [
+      "একটি বস্তু মুক্তভাবে 4 সেকেন্ডে পড়ল। এটি শেষ 1 সেকেন্ডে কত ফুট পড়েছিল? "
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "16",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "112",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "144",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "256",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "শেষ 1 সেকেন্ডে অতিক্রান্ত দূরত্ব = 4- তম সেকেন্ডে অতিক্রান্ত দূরত্ব",
+        "image": []
+      }
+    ],
+    "correctOptionIndices": [
+      1
+    ],
+    "source": "JB",
+    "year": "2023",
+    "choices": [],
+    "passage": {
+      "text": [],
+      "images": []
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "MSB",
+    "question": [
+      "19.6 মিটার উঁচু স্থান হতে একটি বস্তুকে ছেড়ে দেওয়া হলে, তার পতনকাল কত?"
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "4 সেকেন্ড ",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "2 সেকেন্ড ",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "$\\sqrt{2}$ সেকেন্ড ",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "1 সেকেন্ড ",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "মুক্তভাবে পড়ন্ত বস্তুর জন্য $\\mathrm{t}=\\sqrt{\\frac{2 \\mathrm{~h}}{\\mathrm{~g}}}=\\sqrt{\\frac{2 \\times 19.6}{9.8}}$ সে. = 2 সে.",
+        "image": []
+      }
+    ],
+    "correctOptionIndices": [
+      1
+    ],
+    "source": "MSB",
+    "year": "2023",
+    "choices": [],
+    "passage": {
+      "text": [],
+      "images": []
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "multiple choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "DiB",
+    "question": [
+      "ভূমি হতে আদিবেগে একটি বস্তু উল্লম্বভাবে উপরের দিকে নিক্ষেপ করা হলে-"
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "i ও ii",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "ii ও iii",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "i ও iii",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "i ,ii ও iii",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "",
+        "image": []
+      }
+    ],
+    "correctOptionIndices": [
+      2
+    ],
+    "source": "DiB",
+    "year": "2023",
+    "choices": [
+      {
+        "label": "i. বৃহত্তম উচ্চতা $=\\frac{\\mathrm{u}^{2}}{2 \\mathrm{~g}}$",
+        "image": "",
+        "text": ""
+      },
+      {
+        "label": "ii. বিচরণকাল $=\\frac{\\mathrm{u}}{\\mathrm{g}}$",
+        "image": "",
+        "text": ""
+      },
+      {
+        "label": "iii. h উচ্চতায় গমনকাল $=\\frac{u \\pm \\sqrt{u^{2}-2 g h}}{g}$",
+        "image": "",
+        "text": ""
+      }
+    ],
+    "passage": {
+      "text": [
+        "নিচের কোনটি সঠিক?"
+      ],
+      "images": []
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "BB",
+    "question": [
+      "একটি প্রক্ষেপকের বৃহত্তম পাল্লা আনুভূমিক পাল্লার দ্বিগুণ হলে প্রক্ষেপ কোণ কত?"
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "30° অথবা 150°",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "15° অথবা 75°",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "15° অথবা 60°",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "30° অথবা 75°",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "$R_{\\max }=\\frac{u^{2}}{g} ; R=\\frac{u^{2} \\sin 2 \\alpha}{g}$",
+        "image": []
+      }
+    ],
+    "correctOptionIndices": [
+      3
+    ],
+    "source": "BB",
+    "year": "2023",
+    "choices": [],
+    "passage": {
+      "text": [],
+      "images": []
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "BB",
+    "question": [
+      "একজন খেলোয়াড় পেনাল্টি শট করার জন্য $14 \\mathrm{~ms}^{-1}$ বেগে একটি বল শট করলেন এবং তা 10 মিটার দূরে কোনোরকমে বারের উপর দিয়ে আনুভূমিকভাবে অতিক্রম করল। বল শট করার সময় প্রক্ষেপ কোণ কত ছিল?"
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "30°",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "40°",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "45°",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "60°",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "আনুভূমিক পাল্লা $=2 \\times 10 \\mathrm{~m}=20 \\mathrm{~m}$",
+        "image": []
+      }
+    ],
+    "correctOptionIndices": [
+      2
+    ],
+    "source": "BB",
+    "year": "2023",
+    "choices": [],
+    "passage": {
+      "text": [],
+      "images": []
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "multiple choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "CB",
+    "question": [
+      ""
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "i ও ii",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "i ও iii",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "ii ও iii",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "i ,ii ও iii",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "এখানে, $\\mathrm{u}=1 \\mathrm{~ms}^{-1} ; \\alpha=30^{\\circ}$",
+        "image": []
+      }
+    ],
+    "correctOptionIndices": [
+      3
+    ],
+    "source": "CB",
+    "year": "2023",
+    "choices": [
+      {
+        "label": "i. সর্বাধিক উচ্চতা $\\frac{1}{8 \\mathrm{~g}} \\mathrm{~m}$",
+        "image": "",
+        "text": ""
+      },
+      {
+        "label": "ii. আনুভূমিক পাল্লা $\\frac{\\sqrt{3}}{2 \\mathrm{~g}} \\mathrm{~m}$",
+        "image": "",
+        "text": ""
+      },
+      {
+        "label": "iii. বিচরণকাল $\\frac{1}{\\mathrm{~g}} \\mathrm{~s}$",
+        "image": "",
+        "text": ""
+      }
+    ],
+    "passage": {
+      "text": [
+        " ",
+        "O বিন্দু হতে প্রক্ষিপ্ত প্রক্ষেপকটির—",
+        "নিচের কোনটি সঠিক?"
+      ],
+      "images": [
+        "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2FHsc%20H%20%2Cmath%202nd%2029%2C%20mCQ23-%2004.png?alt=media&token=24f55ef4-8702-48cd-8080-fd409507ceb1"
+      ]
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "DiB",
+    "question": [
+      "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:"
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "45°",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "60°",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "90°",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "120°",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "",
+        "image": []
+      }
+    ],
+    "correctOptionIndices": [
+      0
+    ],
+    "source": "DiB",
+    "year": "2023",
+    "choices": [],
+    "passage": {
+      "text": [
+        "u আদিবেগে ভূমির সাথে $\\alpha$ কোণে একটি বস্তুকণা নিক্ষেপ করা হলো।",
+        "ভূমিয় সাথে কত কোণে নিক্ষেপ করলে বস্তুটি সর্বাধিক দূরত্বে পড়বে?"
+      ],
+      "images": []
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "DiB",
+    "question": [
+      "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও:"
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\frac{48}{\\mathrm{~g}}$",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "$\\frac{96}{\\mathrm{~g}}$",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "$\\frac{192}{\\mathrm{~g}}$",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "$\\frac{192 \\sqrt{3}}{\\mathrm{~g}}$",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "সর্বোচ্চ উচ্চতা, $\\mathrm{h}=\\frac{\\mathrm{u}^{2} \\sin ^{2} \\alpha}{2 \\mathrm{~g}}=\\frac{16^{2} \\times \\sin ^{2} 60^{\\circ}}{2 \\mathrm{~g}}=\\frac{192}{2 \\mathrm{~g}}=\\frac{96}{\\mathrm{~g}}$",
+        "image": []
+      }
+    ],
+    "correctOptionIndices": [
+      1
+    ],
+    "source": "DiB",
+    "year": "2023",
+    "choices": [],
+    "passage": {
+      "text": [
+        "u আদিবেগে ভূমির সাথে $\\alpha$ কোণে একটি বস্তুকণা নিক্ষেপ করা হলো।",
+        "a = 60° এবং u = 16 m/sec হলে সর্বোচ্চ উচ্চতা—"
+      ],
+      "images": []
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "MB",
+    "question": [
+      "এক ব্যক্তি $450$ মিটার চওড়া একটি স্রোতহীন নদী- সাঁতার দিয়ে ঠিক সোজাসুজিভাবে $15$ মিনিটে পার হলে সাতারুর বেগ কত কি.মি./ঘন্টা ? "
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\frac{1}{2}$",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "$\\frac{9}{5}$",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "$3$",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "$\\frac{9}{2}$",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "এখানে, দূরত্ব, $s = 450$ মিটার",
+        "image": []
+      }
+    ],
+    "correctOptionIndices": [
+      1
+    ],
+    "source": "MB",
+    "year": "2022",
+    "choices": [],
+    "passage": {
+      "text": [],
+      "images": []
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "SB",
+    "question": [
+      "একটি গাড়ি ঘন্টায় $8$ কি.মি. বেগে চলছে। গাড়ি থেকে $16$ কি.মি. বেগে একটি বস্তুকে কোনদিকে নিক্ষেপ করলে বস্তুর গতিপথ গাড়ির সাথে সমকোণ তৈরি করবে?"
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "$30^{\\circ}$",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "$45^{\\circ}$",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "$100^{\\circ}$",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "$120^{\\circ}$",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "",
+        "image": [
+          "https://firebasestorage.googleapis.com/v0/b/q-bank-95803.appspot.com/o/images%2Fboard%20mcq%202nd%20math%20chapter%209.....1png.png?alt=media&token=223eb6e8-8d14-4c8c-be4b-02dcec1b9c10"
+        ]
+      }
+    ],
+    "correctOptionIndices": [
+      3
+    ],
+    "source": "SB",
+    "year": "2022",
+    "choices": [],
+    "passage": {
+      "text": [],
+      "images": []
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "ChB",
+    "question": [
+      "$20 \\mathrm{~m} / \\mathrm{s}$ বেগে ও $4 \\mathrm{~m} / \\mathrm{s}^{2}$ সমত্বরণে চলমান বস্তুকণার $5$-তম সেকেন্ডে অতিক্রান্ত দূরত্ব—"
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "$36 \\mathrm{~m}$",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "$38 \\mathrm{~m}$",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "$42 \\mathrm{~m}$",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "$150 \\mathrm{~m}$",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "এখানে, আদিবেগ, $\\mathrm{u}=20 \\mathrm{~ms}^{-1}$",
+        "image": []
+      }
+    ],
+    "correctOptionIndices": [
+      1
+    ],
+    "source": "ChB",
+    "year": "2022",
+    "choices": [],
+    "passage": {
+      "text": [],
+      "images": []
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "DiB",
+    "question": [
+      "$u$ বেগে খাড়া উপরের দিকে নিক্ষিপ্ত একটি বস্তু $h$ উচ্চতায় আসার দুটি সময়ের পার্থক্য কত?"
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "$\\sqrt{u^{2}-2 g h}$",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "$\\frac{2}{g} \\sqrt{u^{2}-2 g h}$",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "$\\frac{g}{2} \\sqrt{u^{2}-2 g h}$",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "$g \\sqrt{u^{2}-2 g h}$",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "ধরি, কণাটি $u$ বেগে উল্লম্বভাবে উপরে নিক্ষেপ করলে তা $t$ সময়ে $h$ উচ্চতায় উঠে।",
+        "image": []
+      }
+    ],
+    "correctOptionIndices": [
+      1
+    ],
+    "source": "DiB",
+    "year": "2022",
+    "choices": [],
+    "passage": {
+      "text": [],
+      "images": []
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "DiB",
+    "question": [
+      "একটি পাথরকে ভূমি থেকে খাড়া উপরের দিকে নিক্ষেপ করা হলে এটি $5$ সেকেন্ড পরে নিক্ষেপণ বিন্দুতে ফিরে আসে। পাথরটির ভূমিতে পতন বেগ কত?"
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "$18.56 \\mathrm{~ms}^{-1}$",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "$24.5 \\mathrm{~ms}^{-1}$",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "$25.57 \\cdot \\mathrm{ms}^{-1}$",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "$22.40 \\mathrm{~ms}^{-1}$",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "এখানে,",
+        "image": []
+      }
+    ],
+    "correctOptionIndices": [
+      1
+    ],
+    "source": "DiB",
+    "year": "2022",
+    "choices": [],
+    "passage": {
+      "text": [],
+      "images": []
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "DB",
+    "question": [
+      "$20 \\mathrm{~m} / \\mathrm{sec}$ বেগে খাড়া ঊর্ধ্বগামী একটি বেলুন হতে একখণ্ড পাথর ফেলে দেয়া হল। পাথরটি $10$ সেকেন্ডে ভূমিতে পতিত হয়। পাথরটি যখন ফেলা হয়েছিল, তখন বেলুনের উচ্চতা কত মিটার ছিল ।"
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "$780$",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "$690$",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "$580$",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "$290$",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "এখানে,",
+        "image": []
+      }
+    ],
+    "correctOptionIndices": [
+      3
+    ],
+    "source": "DB",
+    "year": "2022",
+    "choices": [],
+    "passage": {
+      "text": [],
+      "images": []
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "MB",
+    "question": [
+      "একটি বস্তু উপর থেকে মুক্তভাবে $5$ সেকেন্ডে পড়ল। বস্তুটি শেষের $3$  সেকেন্ডে কত ফুট পড়েছিল?"
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "$336$",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "$256$",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "$192$",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "$128$",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "পড়ন্ত বস্তুর ক্ষেত্রে, আদিবেগ, $u = 0$ ",
+        "image": []
+      }
+    ],
+    "correctOptionIndices": [
+      0
+    ],
+    "source": "MB",
+    "year": "2022",
+    "choices": [],
+    "passage": {
+      "text": [],
+      "images": []
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "RB",
+    "question": [
+      "$54$ মিটার উঁচু দালানের ছাদ থেকে একটি পাথর খাড়া নিচে ছেড়ে দিলে ভূমিতে পড়তে কত সময় লাগবে ?"
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "$3.32 \\mathrm{sec}$",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "$3.34 \\mathrm{sec}$",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "$3.36 \\mathrm{sec}$",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "$3.38 \\mathrm{sec}$",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "এখানে,",
+        "image": []
+      }
+    ],
+    "correctOptionIndices": [
+      0
+    ],
+    "source": "RB",
+    "year": "2022",
+    "choices": [],
+    "passage": {
+      "text": [],
+      "images": []
+    }
+  },
+  {
+    "group": "HSC/Admission",
+    "class": "HSC - বিজ্ঞান",
+    "subject": "HSC - জীববিজ্ঞান ১ম পত্র",
+    "chapter": "কোষ বিভাজন",
+    "topic": "মায়োসিস",
+    "medium": "Bangla",
+    "questionType": "MCQ",
+    "mcqnSubType": "single choice",
+    "structuredAnswer": [],
+    "related": "Meiosis",
+    "difficulty": "easy",
+    "tags": [
+      "Biology",
+      "Medical",
+      "Admission"
+    ],
+    "attachments": [],
+    "subSource": [
+      {
+        "text": ""
+      },
+      {
+        "year": ""
+      }
+    ],
+    "reactions": {
+      "like": {
+        "$numberInt": "0"
+      },
+      "love": {
+        "$numberInt": "0"
+      },
+      "hot": {
+        "$numberInt": "0"
+      },
+      "useful": {
+        "$numberInt": "0"
+      },
+      "confused": {
+        "$numberInt": "0"
+      }
+    },
+    "priority": "",
+    "rating": "",
+    "status": "approved",
+    "uploaderId": "user_abc123",
+    "uploaderEmail": "user@gmail.com",
+    "approvedBy": null,
+    "approvedAt": null,
+    "version": {
+      "$numberInt": "1"
+    },
+    "board": "JB",
+    "question": [
+      "$19.6 মিটার উঁচু দালানের ছাদ থেকে একটি পাথর ছেড়ে দিলে ভূমিতে পড়তে কত সময় লাগবে?"
+    ],
+    "options": [
+      {
+        "label": "a",
+        "text": "$1 \\mathrm{sec}$",
+        "image": ""
+      },
+      {
+        "label": "b",
+        "text": "$1.41 \\mathrm{sec}$",
+        "image": ""
+      },
+      {
+        "label": "c",
+        "text": "$2 \\mathrm{sec}$",
+        "image": ""
+      },
+      {
+        "label": "d",
+        "text": "$2.82 \\mathrm{sec}$",
+        "image": ""
+      }
+    ],
+    "solution": [
+      {
+        "text": "এখানে,",
+        "image": []
+      }
+    ],
+    "correctOptionIndices": [
+      2
+    ],
+    "source": "JB",
+    "year": "2022",
+    "choices": [],
+    "passage": {
+      "text": [],
+      "images": []
+    }
+  }
+]

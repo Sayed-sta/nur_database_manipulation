@@ -1,0 +1,4403 @@
+[
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "data": {},
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 123,
+                            "offset": 0,
+                            "style": "fontfamily-kalpurush"
+                        },
+                        {
+                            "length": 123,
+                            "offset": 0,
+                            "style": "fontsize-18"
+                        }
+                    ],
+                    "key": "c4b25",
+                    "text": "$\\left[\\begin{array}{rrr}4 & 0 & -2 \\\\0 & 5 & \\mathrm{~m} \\\\-2 & 4 & 5\\end{array}\\right]$ ম্যাট্রিক্সটি প্রতিসম হলে m = কত?",
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "data": {},
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 38,
+                            "offset": 0,
+                            "style": "BOLD"
+                        },
+                        {
+                            "length": 36,
+                            "offset": 52,
+                            "style": "BOLD"
+                        },
+                        {
+                            "length": 211,
+                            "offset": 0,
+                            "style": "fontfamily-kalpurush"
+                        },
+                        {
+                            "length": 211,
+                            "offset": 0,
+                            "style": "fontsize-18"
+                        },
+                        {
+                            "length": 1,
+                            "offset": 156,
+                            "style": "color-rgb(0,0,0)"
+                        },
+                        {
+                            "length": 1,
+                            "offset": 156,
+                            "style": "bgcolor-rgb(255,255,255)"
+                        }
+                    ],
+                    "key": "7rni6",
+                    "text": "প্রতিসম ম্যাট্রিক্স (Symmetric Matrix) হলো এমন একটি বর্গাকার ম্যাট্রিক্স (square matrix) যার উপাদানগুলো মূল কর্ণরেখার (main diagonal) উভয় পাশে একই রকম থাকে। অর্থাৎ [aij] একটি প্রতিসম ম্যাট্রিক্সের যখন aij= aji।",
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "data": {},
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "key": "74lrr",
+                    "text": "",
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            "-2",
+            "0",
+            {
+                "blocks": [
+                    {
+                        "key": "7htc0",
+                        "data": {},
+                        "text": "4",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": [
+                            {
+                                "style": "fontsize-18",
+                                "length": 1,
+                                "offset": 0
+                            },
+                            {
+                                "style": "fontfamily-kalpurush",
+                                "length": 1,
+                                "offset": 0
+                            }
+                        ]
+                    }
+                ],
+                "entityMap": {}
+            },
+            "5"
+        ],
+        "id": "7f48e393-8d9a-4c9d-8f20-ab218311e88e",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 2,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "CB",
+                    "description": "Cumilla Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    },
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 124,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 124,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$\\mathrm{A=\\left(\\begin{array}{cc}2&3-2i\\\\1+2i&i-2\\end{array}\\right)}$ ম্যাট্রিক্সের অনুবন্ধী (conjugate) ম্যাট্রিক্স কোনটি?",
+                    "data": {},
+                    "key": "2qoof",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "ffhp3",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "fhmk3",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            {
+                "blocks": [
+                    {
+                        "key": "2k1kk",
+                        "data": {},
+                        "text": "$\\mathrm{\\left(\\begin{array}{cc}2 & 3+2 i \\\\1-2 i & i+2\\end{array}\\right)}$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "dipm7",
+                        "data": {},
+                        "text": "$\\mathrm{\\left(\\begin{array}{cc}3-2 i & 2 \\\\i-2 & 1+2 i\\end{array}\\right)}$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "8batm",
+                        "data": {},
+                        "text": "$\\mathrm{\\left(\\begin{array}{cc}2 & 1+2 i \\\\3-2 i & i-2\\end{array}\\right)}$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "97hhf",
+                        "data": {},
+                        "text": "$\\mathrm{\\left(\\begin{array}{cc}2 & 3+2 i \\\\1-2 i & -i-2\\end{array}\\right)}$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            }
+        ],
+        "id": "30ceb8cd-3d3e-432a-8b9d-e2cfea16cd8e",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 3,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "SB",
+                    "description": "Sylhet Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    },
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "data": {},
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 104,
+                            "offset": 0,
+                            "style": "fontfamily-kalpurush"
+                        },
+                        {
+                            "length": 104,
+                            "offset": 0,
+                            "style": "fontsize-18"
+                        },
+                        {
+                            "length": 26,
+                            "offset": 78,
+                            "style": "color-rgb(34,34,34)"
+                        },
+                        {
+                            "length": 26,
+                            "offset": 78,
+                            "style": "bgcolor-rgb(255,255,255)"
+                        }
+                    ],
+                    "key": "7khr2",
+                    "text": "$\\left[\\begin{array}{lll}1 & 2 & 3 \\\\0 & 4 & 5 \\\\0 & 0 & 6\\end{array}\\right]$ এটি কোন ধরনের ম্যাট্রিক্স? ",
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "data": {},
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 218,
+                            "offset": 0,
+                            "style": "fontfamily-kalpurush"
+                        },
+                        {
+                            "length": 218,
+                            "offset": 0,
+                            "style": "fontsize-18"
+                        }
+                    ],
+                    "key": "86goc",
+                    "text": "ঊর্ধ্ব ত্রিভুজাকার (Upper Triangular Matrix) হলো এমন একটি বর্গাকার ম্যাট্রিক্স (square matrix) যেখানে প্রধান কর্নার (diagonal) এবং তার উপরের সব উপাদান থাকতে পারে, কিন্তু প্রধান কর্নারের নিচের সব উপাদান শূন্য (zero) হয়।",
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "data": {},
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "key": "71pp7",
+                    "text": "",
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            "স্কেলার",
+            "নিম্ন ত্রিভুজাকার",
+            "ঊর্ধ্ব ত্রিভুজাকার",
+            "কর্ণ"
+        ],
+        "id": "e6908ca0-0fc3-4f40-a496-1ff7463f02b9",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 2,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "MSB",
+                    "description": "Mymensingh Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    },
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "data": {},
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 79,
+                            "offset": 0,
+                            "style": "color-rgb(0,0,0)"
+                        },
+                        {
+                            "length": 93,
+                            "offset": 0,
+                            "style": "bgcolor-rgb(255,255,255)"
+                        },
+                        {
+                            "length": 95,
+                            "offset": 0,
+                            "style": "fontfamily-kalpurush"
+                        },
+                        {
+                            "length": 95,
+                            "offset": 0,
+                            "style": "fontsize-18"
+                        },
+                        {
+                            "length": 14,
+                            "offset": 79,
+                            "style": "color-rgb(34,34,34)"
+                        }
+                    ],
+                    "key": "8p0j2",
+                    "text": "$\\left[\\begin{array}{rrr}7 & 0 & 0 \\\\0 & 1 & 0 \\\\0 & 0 & -5\\end{array}\\right]$ ম্যাট্রিক্সটি-  ",
+                    "type": "unstyled"
+                },
+                {
+                    "data": {},
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 19,
+                            "offset": 0,
+                            "style": "bgcolor-rgb(255,255,255)"
+                        },
+                        {
+                            "length": 19,
+                            "offset": 0,
+                            "style": "color-rgb(34,34,34)"
+                        },
+                        {
+                            "length": 19,
+                            "offset": 0,
+                            "style": "fontsize-12pt"
+                        },
+                        {
+                            "length": 19,
+                            "offset": 0,
+                            "style": "fontfamily-kalpurush"
+                        },
+                        {
+                            "length": 19,
+                            "offset": 0,
+                            "style": "fontsize-18"
+                        }
+                    ],
+                    "key": "d1pog",
+                    "text": "i. কর্ণ ম্যাট্রিক্স",
+                    "type": "unstyled"
+                },
+                {
+                    "data": {},
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 23,
+                            "offset": 0,
+                            "style": "bgcolor-rgb(255,255,255)"
+                        },
+                        {
+                            "length": 23,
+                            "offset": 0,
+                            "style": "color-rgb(34,34,34)"
+                        },
+                        {
+                            "length": 23,
+                            "offset": 0,
+                            "style": "fontsize-12pt"
+                        },
+                        {
+                            "length": 23,
+                            "offset": 0,
+                            "style": "fontfamily-kalpurush"
+                        },
+                        {
+                            "length": 23,
+                            "offset": 0,
+                            "style": "fontsize-18"
+                        }
+                    ],
+                    "key": "5ic87",
+                    "text": "ii. প্রতিসম ম্যাট্রিক্স",
+                    "type": "unstyled"
+                },
+                {
+                    "data": {},
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 28,
+                            "offset": 0,
+                            "style": "bgcolor-rgb(255,255,255)"
+                        },
+                        {
+                            "length": 28,
+                            "offset": 0,
+                            "style": "color-rgb(34,34,34)"
+                        },
+                        {
+                            "length": 28,
+                            "offset": 0,
+                            "style": "fontsize-12pt"
+                        },
+                        {
+                            "length": 28,
+                            "offset": 0,
+                            "style": "fontfamily-kalpurush"
+                        },
+                        {
+                            "length": 28,
+                            "offset": 0,
+                            "style": "fontsize-18"
+                        }
+                    ],
+                    "key": "c7ems",
+                    "text": "iii. ত্রিভুজাকার ম্যাট্রিক্স",
+                    "type": "unstyled"
+                },
+                {
+                    "data": {},
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 18,
+                            "offset": 0,
+                            "style": "color-rgb(34,34,34)"
+                        },
+                        {
+                            "length": 18,
+                            "offset": 0,
+                            "style": "bgcolor-rgb(255,255,255)"
+                        },
+                        {
+                            "length": 18,
+                            "offset": 0,
+                            "style": "fontsize-12pt"
+                        },
+                        {
+                            "length": 19,
+                            "offset": 0,
+                            "style": "fontfamily-kalpurush"
+                        },
+                        {
+                            "length": 19,
+                            "offset": 0,
+                            "style": "fontsize-18"
+                        }
+                    ],
+                    "key": "elds",
+                    "text": "নিচের কোনটি সঠিক ? ",
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "data": {},
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "key": "c9u6k",
+                    "text": "",
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "data": {},
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "key": "658m9",
+                    "text": "",
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            " i ও ii",
+            "i ও iii",
+            "ii ও iii",
+            "i, ii ও iii"
+        ],
+        "id": "a2c35af2-a08b-4fe1-913e-24c3f453064b",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 3,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "ChB",
+                    "description": "Chattogram Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            },
+            {
+                "sub_source": {
+                    "name": "MSB",
+                    "description": "Mymensingh Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    },
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "data": {},
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 95,
+                            "offset": 0,
+                            "style": "color-rgb(34,34,34)"
+                        },
+                        {
+                            "length": 95,
+                            "offset": 0,
+                            "style": "bgcolor-rgb(255,255,255)"
+                        },
+                        {
+                            "length": 95,
+                            "offset": 0,
+                            "style": "fontsize-12pt"
+                        },
+                        {
+                            "length": 96,
+                            "offset": 0,
+                            "style": "fontfamily-kalpurush"
+                        },
+                        {
+                            "length": 96,
+                            "offset": 0,
+                            "style": "fontsize-18"
+                        }
+                    ],
+                    "key": "ahgmp",
+                    "text": "ম্যাট্রিক্স A এর মাত্রা $4 \\times 5$, ম্যাট্রিক্স B এর মাত্রা $5 \\times 4$ হলে BA এর মাত্রা কত? ",
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "data": {},
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 142,
+                            "offset": 0,
+                            "style": "fontfamily-kalpurush"
+                        },
+                        {
+                            "length": 142,
+                            "offset": 0,
+                            "style": "fontsize-18"
+                        }
+                    ],
+                    "key": "dedds",
+                    "text": "A ও B ম্যাট্রিক্সদ্বয়ের মাত্রা (m×p) ও (p×n) হলে AB ম্যাট্রিক্স এর মাত্রা = m×n অর্থাৎ প্রথম ম্যাট্রিক্সের সারি × দ্বিতীয় ম্যাট্রিক্সের কলাম",
+                    "type": "unstyled"
+                },
+                {
+                    "data": {},
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "key": "ad24c",
+                    "text": "",
+                    "type": "unstyled"
+                },
+                {
+                    "data": {},
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 38,
+                            "offset": 0,
+                            "style": "fontfamily-kalpurush"
+                        },
+                        {
+                            "length": 38,
+                            "offset": 0,
+                            "style": "fontsize-18"
+                        }
+                    ],
+                    "key": "1far6",
+                    "text": "( 5×4) , (4×5) হলে BA এর মাত্রা= (5×5)",
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "data": {},
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "key": "f6js7",
+                    "text": "",
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            {
+                "blocks": [
+                    {
+                        "key": "fpr52",
+                        "data": {},
+                        "text": "$4 \\times 4$ ",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": [
+                            {
+                                "style": "color-rgb(34,34,34)",
+                                "length": 12,
+                                "offset": 0
+                            },
+                            {
+                                "style": "bgcolor-rgb(255,255,255)",
+                                "length": 12,
+                                "offset": 0
+                            },
+                            {
+                                "style": "fontsize-12pt",
+                                "length": 12,
+                                "offset": 0
+                            },
+                            {
+                                "style": "fontfamily-Roboto, sans-serif",
+                                "length": 12,
+                                "offset": 0
+                            }
+                        ]
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "28kge",
+                        "data": {},
+                        "text": "$5 \\times 5$ ",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": [
+                            {
+                                "style": "color-rgb(34,34,34)",
+                                "length": 12,
+                                "offset": 0
+                            },
+                            {
+                                "style": "bgcolor-rgb(255,255,255)",
+                                "length": 12,
+                                "offset": 0
+                            },
+                            {
+                                "style": "fontsize-12pt",
+                                "length": 12,
+                                "offset": 0
+                            },
+                            {
+                                "style": "fontfamily-Roboto, sans-serif",
+                                "length": 12,
+                                "offset": 0
+                            }
+                        ]
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "4fvqv",
+                        "data": {},
+                        "text": "$4 \\times 5$ ",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": [
+                            {
+                                "style": "color-rgb(34,34,34)",
+                                "length": 12,
+                                "offset": 0
+                            },
+                            {
+                                "style": "bgcolor-rgb(255,255,255)",
+                                "length": 12,
+                                "offset": 0
+                            },
+                            {
+                                "style": "fontsize-12pt",
+                                "length": 12,
+                                "offset": 0
+                            },
+                            {
+                                "style": "fontfamily-Roboto, sans-serif",
+                                "length": 12,
+                                "offset": 0
+                            }
+                        ]
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "f9gad",
+                        "data": {},
+                        "text": "$5 \\times 4$ ",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": [
+                            {
+                                "style": "color-rgb(34,34,34)",
+                                "length": 12,
+                                "offset": 0
+                            },
+                            {
+                                "style": "bgcolor-rgb(255,255,255)",
+                                "length": 12,
+                                "offset": 0
+                            },
+                            {
+                                "style": "fontsize-12pt",
+                                "length": 12,
+                                "offset": 0
+                            },
+                            {
+                                "style": "fontfamily-Roboto, sans-serif",
+                                "length": 12,
+                                "offset": 0
+                            }
+                        ]
+                    }
+                ],
+                "entityMap": {}
+            }
+        ],
+        "id": "4882bb8d-cb89-4e5d-adf2-78474bdbc03e",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 1,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "DiB",
+                    "description": "Dinajpur Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    },
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 156,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 156,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 156,
+                            "style": "fontsize-12pt",
+                            "offset": 0
+                        },
+                        {
+                            "length": 157,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 157,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$\\mathrm A=\\left|\\begin{array}{lll}2 &1& -1\\end{array}\\right|$ এবং $\\mathrm B=\\left[\\begin{array}{l}2\\\\0\\\\3\\end{array}\\right]$ হলে $\\mathrm{BA}=\\text { ? }$ ",
+                    "data": {},
+                    "key": "bckk2",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "দেওয়া হয়েছে:  ",
+                    "data": {},
+                    "key": "8157k",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "$\\mathrm{A} = \\begin{bmatrix} 2 & 1 & -1 \\end{bmatrix}, \\quad \\mathrm{B} = \\begin{bmatrix} 2 \\\\ 0 \\\\ 3 \\end{bmatrix}.$",
+                    "data": {},
+                    "key": "35ota",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "3jgml",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "এখন $\\mathrm{BA}$ গুণফল বের করতে হলে, প্রথমে ম্যাট্রিক্স $\\mathrm{B}$ এবং $\\mathrm{A}$-এর গুণনযোগ্যতা পরীক্ষা করা দরকার।  ",
+                    "data": {},
+                    "key": "2jrn0",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "4evde",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": " ম্যাট্রিক্সের আকার:",
+                    "data": {},
+                    "key": "96g5d",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "- $\\mathrm{A}$ একটি $1 \\times 3$ ম্যাট্রিক্স।  ",
+                    "data": {},
+                    "key": "b7a70",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "- $\\mathrm{B}$ একটি $3 \\times 1$ ম্যাট্রিক্স।  ",
+                    "data": {},
+                    "key": "9e9i7",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "2c80u",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "তাহলে $\\mathrm{BA}$-এর গুণফল হবে $3 \\times 3$ ম্যাট্রিক্স।",
+                    "data": {},
+                    "key": "4k4ob",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "cn8it",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": " গুণফল:",
+                    "data": {},
+                    "key": "423ft",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "$\\mathrm{BA} = \\mathrm{B} \\times \\mathrm{A} = \\begin{bmatrix} 2 \\\\ 0 \\\\ 3 \\end{bmatrix} \\times \\begin{bmatrix} 2 & 1 & -1 \\end{bmatrix}.$",
+                    "data": {},
+                    "key": "d2pt5",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "dl04t",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "$\\mathrm{BA} = \\begin{bmatrix} 2 \\cdot 2 & 2 \\cdot 1 & 2 \\cdot (-1) \\\\ 0 \\cdot 2 & 0 \\cdot 1 & 0 \\cdot (-1) \\\\ 3 \\cdot 2 & 3 \\cdot 1 & 3 \\cdot (-1)\\end{bmatrix} = \\begin{bmatrix} 4 & 2 & -2 \\\\ 0 & 0 & 0 \\\\ 6 & 3 & -3 \\end{bmatrix}.$",
+                    "data": {},
+                    "key": "d9f5b",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "fmajl",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "$\\mathrm{BA} = \\begin{bmatrix} 4 & 2 & -2 \\\\ 0 & 0 & 0 \\\\ 6 & 3 & -3 \\end{bmatrix}.$",
+                    "data": {},
+                    "key": "chbr4",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "ecp55",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            "$[1]$ ",
+            "$\\left[\\begin{array}{r}4 \\\\0 \\\\-3\\end{array}\\right]$ ",
+            "$\\left[\\begin{array}{lll}4 & 0 & -3\\end{array}\\right]$ ",
+            "$\\left[\\begin{array}{rrr}4 & 2 & -2 \\\\0 & 0 & 0 \\\\6 & 3 & -3\\end{array}\\right]$ "
+        ],
+        "id": "681916f7-c257-434f-864b-f0c5f88a65b9",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 3,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "DB",
+                    "description": "Dhaka Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    },
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 112,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 112,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 112,
+                            "style": "fontsize-12pt",
+                            "offset": 0
+                        },
+                        {
+                            "length": 113,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 113,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$\\mathrm A=\\left[\\begin{array}{rrr}1 & 2 & 3 \\\\4 & -1 & 2 \\\\0 & 1 & -5\\end{array}\\right]$ হলে $\\mathrm{A+3 I=?}$ ",
+                    "data": {},
+                    "key": "4goan",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "dut96",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "4hqpj",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            "$\\left[\\begin{array}{ccc} -2 & 2 & 3 \\\\ 4 & -4 & 2 \\\\ 0 & 1 & -8 \\end{array}\\right]$",
+            "$\\left[\\begin{array}{ccc} -2 & 2 & 3 \\\\ 4 & 2 & 2 \\\\ 0 & 1 & -2 \\end{array}\\right]$",
+            "$\\left[\\begin{array}{ccc} 4 & 2 & 3 \\\\ 4 & 2 & 2 \\\\ 0 & 1 & -2 \\end{array}\\right]$",
+            "$\\left[\\begin{array}{ccc} -2 & 5 & 3 \\\\ 4 & -1 & 5 \\\\ 0 & 4 & -2 \\end{array}\\right]$"
+        ],
+        "id": "0dc56046-abf8-477f-b934-7ff5840c75fa",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 2,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "DiB",
+                    "description": "Dinajpur Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    },
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "data": {},
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 121,
+                            "offset": 0,
+                            "style": "fontfamily-kalpurush"
+                        },
+                        {
+                            "length": 121,
+                            "offset": 0,
+                            "style": "fontsize-18"
+                        }
+                    ],
+                    "key": "enrka",
+                    "text": "$\\left|\\begin{array}{ccc}0 & 1 & \\omega \\\\1 & \\omega & \\omega^{2} \\\\\\omega & 1 & \\omega^{2}\\end{array}\\right|$ এর মান কত?",
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "data": {},
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "key": "7ieh3",
+                    "text": "",
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "data": {},
+                    "depth": 0,
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "key": "di5nk",
+                    "text": "",
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            {
+                "blocks": [
+                    {
+                        "key": "fpr52",
+                        "data": {},
+                        "text": "$\\omega-\\omega^{2}$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "28kge",
+                        "data": {},
+                        "text": "$\\omega^{2}$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "4fvqv",
+                        "data": {},
+                        "text": "$\\omega+\\omega^{2}$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "f9gad",
+                        "data": {},
+                        "text": "$\\omega^{2}-\\omega$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": [
+                            {
+                                "style": "color-rgb(34,34,34)",
+                                "length": 19,
+                                "offset": 0
+                            },
+                            {
+                                "style": "bgcolor-rgb(255,255,255)",
+                                "length": 19,
+                                "offset": 0
+                            },
+                            {
+                                "style": "fontsize-12pt",
+                                "length": 19,
+                                "offset": 0
+                            },
+                            {
+                                "style": "fontfamily-Roboto, sans-serif",
+                                "length": 19,
+                                "offset": 0
+                            }
+                        ]
+                    }
+                ],
+                "entityMap": {}
+            }
+        ],
+        "id": "84ff66c7-4429-4c8b-931b-5523525f3cec",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 0,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "MSB",
+                    "description": "Mymensingh Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    },
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 109,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 109,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 109,
+                            "style": "fontsize-12pt",
+                            "offset": 0
+                        },
+                        {
+                            "length": 110,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 110,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "x এর কোন মানের জন্য $\\left|\\begin{array}{rrr}x^{2} & x & 4 \\\\3 & 3 & 1 \\\\0 & 0 & -6\\end{array}\\right|=0$ হবে? ",
+                    "data": {},
+                    "key": "324eg",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "535di",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "7mjtm",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            "0, 3",
+            "-3, 0",
+            "0, 1",
+            "-1, 0"
+        ],
+        "id": "7915eb88-c20d-4f94-84fc-94abf6964859",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 2,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "JB",
+                    "description": "Jessore Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    },
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 119,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 119,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 119,
+                            "style": "fontsize-12pt",
+                            "offset": 0
+                        },
+                        {
+                            "length": 120,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 120,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$\\left|\\begin{array}{lll}2 & 2 & 5 \\\\2 & 2 & 6 \\\\2 & 2 & 7\\end{array}\\right|$ এর (2, 3) তম ভুক্তির অনুরাশি নিচের কোনটি? ",
+                    "data": {},
+                    "key": "8h7p1",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "6b9oo",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "48vmb",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            "2",
+            "0",
+            "5",
+            "7"
+        ],
+        "id": "cf5b1b01-8491-42e5-9df5-53d267393b10",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 1,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "MSB",
+                    "description": "Mymensingh Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    },
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 101,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 101,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$\\left|\\begin{array}{rrr}7 & -7 & 0 \\\\-1 & 2 & -1 \\\\5 & P & 3\\end{array}\\right|$ এ P এর সহগুণক কোনটি?",
+                    "data": {},
+                    "key": "7bi9b",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "3p7lr",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "8874i",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            "-7",
+            "-6",
+            "6",
+            "7"
+        ],
+        "id": "d5573959-ed92-4124-856f-e1807492c55f",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 3,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "CB",
+                    "description": "Cumilla Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    },
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 98,
+                            "style": "color-rgb(0,0,0)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 98,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 99,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 99,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$\\mathrm A$ একটি $2 \\times 2$ ক্রমের ম্যাট্রিক্স এবং $|\\mathrm A|=5$ হলে $|3\\mathrm A|$ এর মান কত? ",
+                    "data": {},
+                    "key": "873tt",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "3b6nn",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 47,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 47,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "যেহেতু A একটি $2 \\times 2$ ক্রমের ম্যাট্রিক্স। ",
+                    "data": {},
+                    "key": "885fh",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 63,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 63,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "সুতরাং $|3 \\mathrm{~A}|=3^{2} \\times|\\mathrm{A}|=9 \\times 5=45$",
+                    "data": {},
+                    "key": "6dea3",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            {
+                "blocks": [
+                    {
+                        "key": "1v5r7",
+                        "data": {},
+                        "text": "$\\frac{5}{9}$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "60ea5",
+                        "data": {},
+                        "text": "$\\frac{5}{3}$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "dlkvf",
+                        "data": {},
+                        "text": "15",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "4ual",
+                        "data": {},
+                        "text": "45",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            }
+        ],
+        "id": "43d45e37-1feb-49d7-8b83-7212e74cf474",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 3,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "SB",
+                    "description": "Sylhet Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    },
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 111,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 111,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "A একটি $3 \\times 3$ ক্রমের ম্যাট্রিক্স এবং $|\\mathrm A| = 1$ হলে $\\left|(3 \\mathbf{A})^{-1}\\right|$ এর মান কত? ",
+                    "data": {},
+                    "key": "h3l1",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 6,
+                            "style": "color-rgb(31,31,31)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 6,
+                            "style": "bgcolor-rgba(0,0,0,0)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 6,
+                            "style": "BOLD",
+                            "offset": 0
+                        },
+                        {
+                            "length": 6,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 6,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "এখানে:",
+                    "data": {
+                        "margin-left": "0px"
+                    },
+                    "key": "8gfa3",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 40,
+                            "style": "color-rgb(31,31,31)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 40,
+                            "style": "bgcolor-rgba(0,0,0,0)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 40,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 40,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "A একটি 3×3 ক্রমের ম্যাট্রিক্স এবং ∣A∣=1।",
+                    "data": {},
+                    "key": "65b3g",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 59,
+                            "style": "color-rgb(31,31,31)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 59,
+                            "style": "bgcolor-rgba(0,0,0,0)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 59,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 59,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$\\left|(3 \\mathbf{A})^{-1}\\right|=\\frac{1}{|3 \\mathbf{A}|}$",
+                    "data": {},
+                    "key": "b307e",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 34,
+                            "style": "color-rgb(31,31,31)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 34,
+                            "style": "bgcolor-rgba(0,0,0,0)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 34,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 34,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$|3 \\mathbf{A}|=3^{3}|A|=27|A|=27$",
+                    "data": {},
+                    "key": "5o31f",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 29,
+                            "style": "color-rgb(31,31,31)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 29,
+                            "style": "bgcolor-rgba(0,0,0,0)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 29,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 29,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$|3 A^{-1}| = {\\frac{1}{27}}$",
+                    "data": {
+                        "margin-left": "0px"
+                    },
+                    "key": "aumqt",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {
+                        "margin-left": "0px"
+                    },
+                    "key": "f1j9r",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "6qe2b",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            {
+                "blocks": [
+                    {
+                        "key": "1v5r7",
+                        "data": {},
+                        "text": "$\\frac{1}{27}$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "60ea5",
+                        "data": {},
+                        "text": "$\\frac{1}{9}$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "dlkvf",
+                        "data": {},
+                        "text": "9",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "4ual",
+                        "data": {},
+                        "text": "27",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            }
+        ],
+        "id": "bc2e3556-0df7-41f7-823a-0f74debfd5ac",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 0,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "BB",
+                    "description": "Barisal Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    },
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 69,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 69,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        },
+                        {
+                            "length": 10,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 58
+                        },
+                        {
+                            "length": 10,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 58
+                        }
+                    ],
+                    "text": "$\\left|\\begin{array}{rr}1 & 2 \\\\-3 & 6\\end{array}\\right|$ নির্ণায়কে ",
+                    "data": {},
+                    "key": "3trq4",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "5hjce",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 30,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 30,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 30,
+                            "style": "fontsize-12pt",
+                            "offset": 0
+                        },
+                        {
+                            "length": 30,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 30,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "i. (1, 2) তম ভুক্তির সহগুণক 3 ",
+                    "data": {},
+                    "key": "e8du4",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 33,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 33,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 33,
+                            "style": "fontsize-12pt",
+                            "offset": 0
+                        },
+                        {
+                            "length": 33,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 33,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "ii. ( 2, 2 ) তম ভুক্তির অনুরাশি 1",
+                    "data": {},
+                    "key": "1p9fr",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 23,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 23,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 23,
+                            "style": "fontsize-12pt",
+                            "offset": 0
+                        },
+                        {
+                            "length": 23,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 23,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "iii. নির্ণায়কের মান 12",
+                    "data": {},
+                    "key": "6q3t9",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 17,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 17,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 17,
+                            "style": "fontsize-12pt",
+                            "offset": 0
+                        },
+                        {
+                            "length": 17,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 17,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "নিচের কোনটি সঠিক?",
+                    "data": {},
+                    "key": "7v7mk",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "1sv2u",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "aip29",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            "i ও ii",
+            "i ও iii",
+            "ii ও iii",
+            "i, ii ও iii"
+        ],
+        "id": "3d819cf6-ed82-4b17-a655-7e472c3bef8c",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 3,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "DB",
+                    "description": "Dhaka Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    },
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 40,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 40,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 40,
+                            "style": "fontsize-12pt",
+                            "offset": 0
+                        },
+                        {
+                            "length": 40,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        },
+                        {
+                            "length": 40,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও : ",
+                    "data": {},
+                    "key": "8k069",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 73,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 73,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 73,
+                            "style": "fontsize-12pt",
+                            "offset": 0
+                        },
+                        {
+                            "length": 73,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        },
+                        {
+                            "length": 73,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$\\left|\\begin{array}{ccc}3&2&1\\\\-1&2&\\mathrm{m}\\\\4&1&0\\end{array}\\right|$",
+                    "data": {},
+                    "key": "7dhor",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 34,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 34,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 34,
+                            "style": "fontsize-12pt",
+                            "offset": 0
+                        },
+                        {
+                            "length": 34,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        },
+                        {
+                            "length": 34,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "(2, 3) তম ভুক্তির অনুরাশির মান কত?",
+                    "data": {},
+                    "key": "pdg2",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {
+                        "text-align": "start"
+                    },
+                    "key": "ch3c9",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 83,
+                            "style": "color-rgb(0,0,0)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 83,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 83,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 83,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 83,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "(2, 3) তম ভুক্তির অনুরাশি $=\\left|\\begin{array}{ll}3 & 2 \\\\4 & 1\\end{array}\\right|$",
+                    "data": {
+                        "text-align": "left"
+                    },
+                    "key": "dc91c",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {
+                        "text-align": "start"
+                    },
+                    "key": "bat0k",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 25,
+                            "style": "color-rgb(0,0,0)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 25,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 25,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 25,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 25,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$\\hspace{4.7cm}=(3-8)=-5$",
+                    "data": {
+                        "text-align": "left"
+                    },
+                    "key": "3felg",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "5uhjo",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            "11",
+            "5",
+            "-5",
+            "-11"
+        ],
+        "id": "07d115de-b7ce-4e32-84ed-a35541d65a16",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 2,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "DiB",
+                    "description": "Dinajpur Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    },
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 39,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 39,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 39,
+                            "style": "fontsize-12pt",
+                            "offset": 0
+                        },
+                        {
+                            "length": 39,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 39,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        },
+                        {
+                            "length": 39,
+                            "style": "BOLD",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও :",
+                    "data": {},
+                    "key": "1t1ke",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 73,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 73,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 73,
+                            "style": "fontsize-12pt",
+                            "offset": 0
+                        },
+                        {
+                            "length": 73,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 73,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$\\left|\\begin{array}{ccc}3&2&1\\\\-1&2&\\mathrm{m}\\\\4&1&0\\end{array}\\right|$",
+                    "data": {},
+                    "key": "cu89c",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 38,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 38,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 38,
+                            "style": "fontsize-12pt",
+                            "offset": 0
+                        },
+                        {
+                            "length": 38,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 38,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "নির্ণায়কের মান শূন্য হলে m এর মান কত?",
+                    "data": {},
+                    "key": "4rqsq",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "9n36i",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 177,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 177,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$\\begin{array}{l}\\left|\\begin{array}{rrr}3 & 2 & 1 \\\\-1 & 2 & \\mathrm{~m} \\\\4 & 1 & 0\\end{array}\\right| \\\\=3(0-\\mathrm{m})-2(0-4 \\mathrm{~m})+1(-1-8)=5 \\mathrm{~m}-9\\end{array}$",
+                    "data": {},
+                    "key": "e693c",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 58,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 58,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "প্রশ্নমতে, $\\mathrm{5m-9=0\\qquad\\therefore m=\\frac{9}{5}}$",
+                    "data": {},
+                    "key": "fk8f2",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            {
+                "blocks": [
+                    {
+                        "key": "5vsks",
+                        "data": {},
+                        "text": "$-\\frac{9}{11}$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "bh2il",
+                        "data": {},
+                        "text": "$\\frac{5}{9}$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "81c3s",
+                        "data": {},
+                        "text": "$\\frac{9}{11}$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "7sjqi",
+                        "data": {},
+                        "text": "$\\frac{9}{5}$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            }
+        ],
+        "id": "ff775180-44aa-4dbd-8ed7-31ae7e0af846",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 3,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "DiB",
+                    "description": "Dinajpur Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    },
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 105,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 105,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "P এর মান কত হলে $\\left[\\begin{array}{cc}P+1 & 6 \\\\4 & -8\\end{array}\\right]$ ম্যাট্রিক্সটি ব্যতিক্রমী হবে?",
+                    "data": {},
+                    "key": "1fdkq",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 25,
+                            "style": "color-rgb(0,0,0)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 28,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 92,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        },
+                        {
+                            "length": 92,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 3,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 25
+                        }
+                    ],
+                    "text": "ম্যাট্রিক্সটি ব্যতিক্রমী হলে $\\left|\\begin{array}{cr}P+1 & 6 \\\\4 & -8\\end{array}\\right|$$=0$",
+                    "data": {},
+                    "key": "3dcqh",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 83,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        },
+                        {
+                            "length": 83,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "${l}\\Rightarrow \\mathrm{-8(P+1)}-(6\\times4)$$=0$$\\Rightarrow \\mathrm{-8P}-8-24$$=0$",
+                    "data": {},
+                    "key": "fnc5g",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 40,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        },
+                        {
+                            "length": 40,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$\\Rightarrow \\mathrm{P}$$=\\frac{32}{-8}$",
+                    "data": {},
+                    "key": "44e1j",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 27,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        },
+                        {
+                            "length": 27,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$\\therefore\\mathrm{P}$$=-4$",
+                    "data": {},
+                    "key": "2lgik",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "bunmv",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            "4",
+            "2",
+            "-2",
+            "-4"
+        ],
+        "id": "d4741572-bf99-4123-a185-b1582e835aeb",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 3,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "ChB",
+                    "description": "Chattogram Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    },
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 111,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 111,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$\\mathrm{\\left[\\begin{array}{rr}m&-1\\\\m-2&m-2\\end{array}\\right]}$ ম্যাট্রিক্সটি ব্যতিক্রমী হলে, m এর মান কোনটি?",
+                    "data": {},
+                    "key": "75pls",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "3q16o",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 96,
+                            "style": "color-rgb(0,0,0)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 96,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 96,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 96,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$\\mathrm{\\left[\\begin{array}{rr}m&-1\\\\m-2&m-2\\end{array}\\right]}$ ম্যাট্রিক্সটি ব্যতিক্রমী হলে, ",
+                    "data": {},
+                    "key": "e53dd",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 128,
+                            "style": "color-rgb(0,0,0)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 128,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 128,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 128,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$\\left|\\begin{array}{cc}\\mathrm{m}&-1\\\\\\mathrm{m-2}&\\mathrm{m-2}\\end{array}\\right|=0\\qquad\\qquad\\Rightarrow\\mathrm{m^2-2m+m2=0}$",
+                    "data": {},
+                    "key": "155pj",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 133,
+                            "style": "color-rgb(0,0,0)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 133,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 133,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 133,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$\\begin{array}{l}\\Rightarrow \\mathrm{m(m-2)+1(m-2)}=0 \\qquad\\Rightarrow \\mathrm{(m-2)(m+1)}=0\\\\\\therefore \\mathrm{m}=2,-1\\end{array}$",
+                    "data": {},
+                    "key": "554pk",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            "1, -2",
+            "-1, -2",
+            "-1, 2",
+            "1, 2"
+        ],
+        "id": "11983bb4-04c1-4560-84cc-cd753cfa7f3c",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 2,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "DB",
+                    "description": "Dhaka Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    },
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 93,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 93,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        },
+                        {
+                            "length": 3,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 70
+                        },
+                        {
+                            "length": 3,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 70
+                        },
+                        {
+                            "length": 3,
+                            "style": "fontsize-12pt",
+                            "offset": 70
+                        }
+                    ],
+                    "text": "$\\mathrm{A}=\\left[\\begin{array}{rr}3 & 1 \\\\-2 & -1\\end{array}\\right]$ হলে $\\mathrm{A}^{-1}=?$",
+                    "data": {},
+                    "key": "1tfim",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "bs239",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 240,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 240,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "আমরা জানি, $\\mathrm{A}=\\left[\\begin{array}{ll}\\mathrm{a}&\\mathrm{b}\\\\\\mathrm{c}&\\mathrm{d}\\end{array}\\right]$ হলে, $\\mathrm{A^{-1}}=\\mathrm{\\frac{1}{ad-bc}}\\left[\\begin{array}\\mathrm{d}&\\mathrm{-b}\\\\\\mathrm{-c}&\\mathrm{a}\\end{array}\\right]$",
+                    "data": {},
+                    "key": "a60mh",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 75,
+                            "style": "color-rgb(0,0,0)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 75,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 222,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 222,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "প্রশ্নমতে, $\\mathrm{A}=\\left[\\begin{array}{rr}3&1\\\\-2&-1\\end{array}\\right]$ এর জন্য $\\mathrm{A^{-1}}=\\frac{1}{-3-(-2)}\\left[\\begin{array}{rr}-1&-1\\\\2&3\\end{array}\\right]=\\left[\\begin{array}{rr}1&1\\\\-2&-3\\end{array}\\right]$",
+                    "data": {},
+                    "key": "s2t7",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            {
+                "blocks": [
+                    {
+                        "key": "eejm9",
+                        "data": {},
+                        "text": "$\\left[\\begin{array}{rr}1 & 1 \\\\-2 & -3\\end{array}\\right]$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "agdd5",
+                        "data": {},
+                        "text": "$\\left[\\begin{array}{rr}-1 & -1 \\\\2 & 3\\end{array}\\right]$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "dtgri",
+                        "data": {},
+                        "text": "$\\left[\\begin{array}{ll}3 & -1 \\\\2 & -1\\end{array}\\right]$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "b2dql",
+                        "data": {},
+                        "text": "$\\left[\\begin{array}{ll}-1 & 1 \\\\-2 & 3\\end{array}\\right]$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            }
+        ],
+        "id": "0b35853b-a66b-4a44-b93a-1478f782cad6",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 0,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "DiB",
+                    "description": "Dinajpur Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    },
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 123,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 123,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        },
+                        {
+                            "length": 33,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 89
+                        },
+                        {
+                            "length": 4,
+                            "style": "bgcolor-transparent",
+                            "offset": 89
+                        },
+                        {
+                            "length": 33,
+                            "style": "fontsize-12pt",
+                            "offset": 89
+                        },
+                        {
+                            "length": 29,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 93
+                        }
+                    ],
+                    "text": "$\\mathrm{A}=\\left[\\begin{array}{lll}5 & 0 & 0 \\\\0 & 6 & 0 \\\\0 & 0 & 7\\end{array}\\right]$ হলে $\\mathrm{A}^{-1}=\\text { ? }$ ",
+                    "data": {},
+                    "key": "alaa",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "cajnt",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "7r9of",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            {
+                "blocks": [
+                    {
+                        "key": "eejm9",
+                        "data": {},
+                        "text": "$\\left[\\begin{array}{ccc}\\frac{1}{7} & 0 & 0 \\\\0 & \\frac{1}{6} & 0 \\\\0 & 0 & \\frac{1}{5}\\end{array}\\right]$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "agdd5",
+                        "data": {},
+                        "text": "$\\frac{1}{210}\\left[\\begin{array}{lll}5 & 0 & 0 \\\\0 & 6 & 0 \\\\0 & 0 & 7\\end{array}\\right]$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "dtgri",
+                        "data": {},
+                        "text": "$\\left[\\begin{array}{lll}\\frac{1}{5}&0&0\\\\0&\\frac{1}{6}&0\\\\0&0&\\frac{1}{7}\\end{array}\\right]$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "b2dql",
+                        "data": {},
+                        "text": "$\\frac{1}{210}\\left[\\begin{array}{lll}\\frac{1}{5} & 0 & 0 \\\\0 & \\frac{1}{6} & 0 \\\\0 & 0 & \\frac{1}{7}\\end{array}\\right]$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            }
+        ],
+        "id": "f9b7e154-791d-4311-8517-086e5ff50322",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 2,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "RB",
+                    "description": "Rajshahi Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    },
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 111,
+                            "style": "color-rgb(0,0,0)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 111,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 112,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 112,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$3 \\times 3$ মাত্রার একটি অভেদ ম্যাট্রিক্স $\\mathrm{\\left(I_3\\right)}$ হলে $\\mathrm{\\left(I_3\\right)^{-1}}$ কত? ",
+                    "data": {},
+                    "key": "8hgd4",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 73,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        },
+                        {
+                            "length": 73,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "আমরা জানি, অভেদ বা একক ম্যাট্রিক্সের বিপরীত ম্যাট্রিক্সও অভেদ ম্যাট্রিক্স",
+                    "data": {},
+                    "key": "94e0i",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "bsjr3",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            {
+                "blocks": [
+                    {
+                        "key": "eb2o6",
+                        "data": {},
+                        "text": "$3I_3$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "6usn8",
+                        "data": {},
+                        "text": "0",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "72cf7",
+                        "data": {},
+                        "text": "$I_3/3$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "a95it",
+                        "data": {},
+                        "text": "$I_3$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            }
+        ],
+        "id": "4daa4519-e937-4160-ad03-b5555fe94314",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 3,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "RB",
+                    "description": "Rajshahi Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    },
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 111,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 111,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$\\mathrm{A}=\\left[\\begin{array}{rr}\\mathrm{p^{-3}}&-1\\\\-8&\\mathrm{p+4}\\end{array}\\right]$ একটি ম্যাট্রিক্স হলে-",
+                    "data": {},
+                    "key": "1tr29",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 65,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 65,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "i. $\\mathrm p = 4$ এর জন্য $\\mathrm{A^{-1}}$ নির্ণয় করা যায় না।",
+                    "data": {},
+                    "key": "5un4n",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 70,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 70,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "ii. $\\mathrm p = - 5$ এর জন্য $\\mathrm{A}$ একটি ব্যতিক্রমী ম্যাট্রিক্স",
+                    "data": {},
+                    "key": "97o7q",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 50,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 50,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "iii. $\\mathrm{|A|}$ এর (2, 1 ) তম ভুক্তির অনুরাশি।",
+                    "data": {},
+                    "key": "34r79",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 17,
+                            "style": "BOLD",
+                            "offset": 0
+                        },
+                        {
+                            "length": 17,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 17,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "নিচের কোনটি সঠিক?",
+                    "data": {},
+                    "key": "1gv2v",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 49,
+                            "style": "color-rgb(0,0,0)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 49,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 49,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 49,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 49,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "(iii) নং তথ্যটি সঠিক নয়। কারণ, $|\\mathrm A|$ এর ",
+                    "data": {
+                        "text-align": "start"
+                    },
+                    "key": "18hpk",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 30,
+                            "style": "color-rgb(0,0,0)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 30,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 30,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 31,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 31,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "(2, 1) তম ভুক্তির অনুরাশি = -1 ",
+                    "data": {
+                        "text-align": "left"
+                    },
+                    "key": "ajhad",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "5sf36",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            "i ও ii",
+            "i ও iii ",
+            "ii ও iii",
+            "i, ii ও iii"
+        ],
+        "id": "321191f8-08c1-48cc-978e-937819d2af41",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 0,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "BB",
+                    "description": "Barisal Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    },
+    {
+        "question_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 39,
+                            "style": "BOLD",
+                            "offset": 0
+                        },
+                        {
+                            "length": 39,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 39,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "নিচের তথ্যের আলোকে প্রশ্নের উত্তর দাও :",
+                    "data": {},
+                    "key": "10dee",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 126,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 126,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$\\mathrm{A}=\\left[\\begin{array}{ll}2 & 1 \\\\3 & 5\\end{array}\\right], \\mathrm{B}=\\left[\\begin{array}{c}2 \\\\10\\end{array}\\right]$",
+                    "data": {},
+                    "key": "83elp",
+                    "depth": 0,
+                    "type": "unstyled"
+                },
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 23,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        },
+                        {
+                            "length": 23,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        },
+                        {
+                            "length": 3,
+                            "style": "color-rgb(34,34,34)",
+                            "offset": 19
+                        },
+                        {
+                            "length": 3,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 19
+                        }
+                    ],
+                    "text": "$\\mathrm{A^{-1}}=$ কত? ",
+                    "data": {},
+                    "key": "6ekr5",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "answer_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [
+                        {
+                            "length": 219,
+                            "style": "color-rgb(0,0,0)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 219,
+                            "style": "bgcolor-rgb(255,255,255)",
+                            "offset": 0
+                        },
+                        {
+                            "length": 219,
+                            "style": "fontsize-18",
+                            "offset": 0
+                        },
+                        {
+                            "length": 219,
+                            "style": "fontfamily-kalpurush",
+                            "offset": 0
+                        }
+                    ],
+                    "text": "$\\mathrm{A}=\\left[\\begin{array}{ll}2&1\\\\3&5\\end{array}\\right]\\therefore\\mathrm{A^{-1}}=\\frac{1}{2.5-3.1}\\left[\\begin{array}{rr}5&-1\\\\-3&2\\end{array}\\right]=\\frac{1}{7}\\left[\\begin{array}{rr}5&-1\\\\-3&2\\end{array}\\right]$",
+                    "data": {},
+                    "key": "dqo3g",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "explanation_text": {
+            "blocks": [
+                {
+                    "entityRanges": [],
+                    "inlineStyleRanges": [],
+                    "text": "",
+                    "data": {},
+                    "key": "bldq0",
+                    "depth": 0,
+                    "type": "unstyled"
+                }
+            ],
+            "entityMap": {}
+        },
+        "option": [
+            {
+                "blocks": [
+                    {
+                        "key": "63n74",
+                        "data": {},
+                        "text": "$\\frac{1}{7}\\left[\\begin{array}{cc}5 & -1 \\\\-3 & 2\\end{array}\\right]$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "27g98",
+                        "data": {},
+                        "text": "$\\frac{1}{7}\\left[\\begin{array}{cc}2 & -3 \\\\-1 & 5\\end{array}\\right]$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "bp809",
+                        "data": {},
+                        "text": "$\\frac{1}{7}\\left[\\begin{array}{ll}5 & 1 \\\\3 & 2\\end{array}\\right]$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            },
+            {
+                "blocks": [
+                    {
+                        "key": "gp1p",
+                        "data": {},
+                        "text": "$\\frac{1}{7}\\left[\\begin{array}{ll}2 & 3 \\\\1 & 5\\end{array}\\right]$",
+                        "type": "unstyled",
+                        "depth": 0,
+                        "entityRanges": [],
+                        "inlineStyleRanges": []
+                    }
+                ],
+                "entityMap": {}
+            }
+        ],
+        "id": "2855a252-9bc7-429f-b45d-2b3c4425b813",
+        "topic": {
+            "name": "All Topics"
+        },
+        "question_type": {
+            "name": "বহুনির্বাচনি প্রশ্ন",
+            "mark": 1,
+            "price": "0.5000"
+        },
+        "question_level": {
+            "name": "MCQ: All Levels"
+        },
+        "mcq_solution_index": 0,
+        "question_subsources": [
+            {
+                "sub_source": {
+                    "name": "BB",
+                    "description": "Barisal Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            },
+            {
+                "sub_source": {
+                    "name": "DB",
+                    "description": "Dhaka Board",
+                    "source": {
+                        "id": "5d2d1a3a-6e63-4f54-ba13-0edab3080cc2",
+                        "name": "Board Exam Question"
+                    }
+                },
+                "year": {
+                    "name": "2023"
+                }
+            }
+        ],
+        "user_reaction": "none",
+        "question_priority": null,
+        "question_Rating": null
+    }
+]
